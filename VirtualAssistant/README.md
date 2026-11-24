@@ -99,7 +99,7 @@ Open a pull request
 📜 License
 MIT License
 
-Copyright (c) 2025 Probin Dhakal
+Copyright (c) 2025 Sunny kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
